@@ -1,7 +1,6 @@
 from reminder import *
 import tkinter as tk
-from tkinter import simpledialog, Text
-import os
+from tkinter import simpledialog
 
 root = tk.Tk()
 root.title("Reminders")
